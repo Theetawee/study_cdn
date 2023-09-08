@@ -1234,6 +1234,10 @@ input:checked + .toggle-bg {
   margin-top: 1.25rem;
 }
 
+.mt-1 {
+  margin-top: 0.25rem;
+}
+
 .block {
   display: block;
 }
